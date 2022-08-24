@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=55920:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Lalit Chaudhari\OneDrive\Desktop\NIIT\Course4\Sprint2\mc-1-calculator\target\classes" com.jap.calculator.ScientificCalculator
+Ceil of Number =10.0
+Floor of Number =20.0
+Power of Number =25
+Square root of Number =2.23606797749979
+Addition of integer number = 30
+Subtraction of integer number = 30
+Multiplication of integer number = 50
+Division of integer number = -2
+Modulo of integer number = 70
+
+Process finished with exit code 0
